@@ -1,0 +1,45 @@
+.background{
+    background-color: #1F2937;
+    color: white;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    text-decoration: white;
+    margin-bottom: 75px;
+    }
+
+.superheader{
+    margin-right: 1200px;
+    margin-left: 150px;
+    font-weight:800;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    flex: 0 1 auto;
+}
+button{
+    background-color: #3772F6;
+    color:white;
+}
+
+.hLeft{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 150px;
+}
+
+.massive{
+    display:flex;
+    gap: 760px;
+}
+
+.img{
+    width: auto;
+    max-height: 50px;
+}
